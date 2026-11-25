@@ -1,0 +1,6 @@
+{
+  "name": "نجم الشاشات",
+  "description": "تطبيق نجم الشاشات للبث المباشر، جدول المباريات، الأخبار الرياضية، والأفلام والمسلسلات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

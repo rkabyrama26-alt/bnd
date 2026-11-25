@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">نجم الشاشات</string>
+    <string name="back">رجوع</string>
+    <string name="play_pause">تشغيل أو إيقاف</string>
+    <string name="rewind_10">رجوع 10 ثوانٍ</string>
+    <string name="forward_10">تقديم 10 ثوانٍ</string>
+    <string name="mute">كتم الصوت</string>
+    <string name="stretch_video">تمديد الفيديو</string>
+    <string name="fullscreen">ملء الشاشة</string>
+    <string name="favorite">مفضلة</string>
+    <string name="close">إغلاق</string>
+</resources>
